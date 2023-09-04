@@ -1,3 +1,3 @@
 # Yt-Clone
-Clone PP
+YOUTUBE Clone PP
 # just learning the git with pp 
